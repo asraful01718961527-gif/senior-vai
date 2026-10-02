@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "http://out-of-law-spam.vercel.app/$1"
+      "destination": "http://2.56.246.119:30194/$1"
     }
   ]
 }# senior-vai
