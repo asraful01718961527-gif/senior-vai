@@ -1,1 +1,8 @@
-# senior-vai
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "http://out-of-law-spam.vercel.app/$1"
+    }
+  ]
+}# senior-vai
